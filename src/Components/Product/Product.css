@@ -1,0 +1,33 @@
+
+.product-list {
+    display: flex;
+}
+.img-area {
+    width: 22%;
+    margin-right: 50px;
+}
+.name {
+    color: #0000FF;
+    font-weight: bold;
+    font-size: 23px;
+}
+span {
+    font-size: 18px;
+}
+.price {
+    font-weight: bold;
+    font-size: 20px;
+}
+button {
+    display: block;
+    margin: 30px 0;
+}
+.buy {
+    font-size: 21px;
+    background-color: #F0C14B;
+    border: transparent;
+    border-radius: 7%;
+    padding: 10px 50px;
+    color: #ffffff;
+    cursor: pointer;
+}
